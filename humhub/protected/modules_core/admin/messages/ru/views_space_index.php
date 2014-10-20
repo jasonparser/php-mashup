@@ -1,0 +1,22 @@
+<?php
+return array (
+  '<strong>Manage</strong> spaces' => '<strong>Управление</strong> пространствами',
+  'All' => 'Все',
+  'By Invite' => 'По Приглашению',
+  'By invite' => 'по приглашению',
+  'Delete space' => 'Удалить пространство',
+  'Edit space' => 'Редактировать пространство',
+  'Everbody' => 'Каждый',
+  'Free' => 'Свободно',
+  'In this overview you can find every space and manage it.' => 'Здесь Вы можете найти все пространства и управлять ими',
+  'Invisible' => 'Невидимый',
+  'Invite & Request' => 'Приглашения и Запросы',
+  'Invite / Request' => 'Приглашения / Запросы',
+  'Registrated only' => 'Только зарегистрированные',
+  'Search for space name' => 'Поиск по названию пространства',
+  'Search for space owner' => 'Поиск по создателю пространства',
+  'Space name' => 'Название пространства',
+  'Space owner' => 'Создатель пространства',
+  'View space' => 'Посмотреть пространство',
+  'Visible' => 'Видимый',
+);

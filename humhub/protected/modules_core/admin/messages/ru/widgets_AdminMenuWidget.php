@@ -1,0 +1,23 @@
+<?php
+return array (
+  '<strong>Administration</strong> menu' => '<strong>Меню</strong> администратора',
+  'About' => 'О',
+  'Authentication' => 'Аутентификация',
+  'Basic' => 'Базовые',
+  'Caching' => 'Кеширование',
+  'Cron jobs' => 'Задачи Cron',
+  'Design' => 'Дизайн',
+  'Files' => 'Файлы',
+  'Groups' => 'Группы',
+  'Logging' => 'Авторизация',
+  'Mailing' => 'Рассылки',
+  'Modules' => 'Модули',
+  'Security & Roles' => 'Безопасность и Роли',
+  'Self test & update' => 'Тестирование и обновление',
+  'Settings' => 'Настройки',
+  'Spaces' => 'Пространства',
+  'Statistics' => 'Статистики',
+  'User approval' => 'Подтверждение пользователей',
+  'User profiles' => 'Профили пользователей',
+  'Users' => 'Пользователи',
+);
